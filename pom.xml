@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>org.company.app</groupId>
 	<artifactId>employeemanagement</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>employeemanagement</name>
 	<description>Demo project for Spring Boot with neo4j</description>
 	<properties>
